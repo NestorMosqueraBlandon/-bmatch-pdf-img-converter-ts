@@ -1,6 +1,6 @@
 {
-  "name": "@bmatch/pdf-img-converter-ts",
-  "version": "0.1.0",
+  "name": "@estcode/pdf-img-converter-ts",
+  "version": "0.1.1",
   "description": "Convert pdf file to png image.",
   "main": "build/index.js",
   "typings": "build/index.d.ts",
